@@ -24,8 +24,8 @@ A deep learning project that colorizes grayscale images using a Conditional GAN 
 ### 🧪 Sample Results
 
 
-| ![Gray](assets/input1.png) | ![Color](assets/output1.png) |
-| ![Gray](assets/input2.png) | ![Color](assets/output2.png) |
+| ![Gray](assets/input1.png) | 
+| ![Gray](assets/input2.png) | 
 
 
 
