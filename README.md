@@ -25,7 +25,7 @@ A deep learning project that colorizes grayscale images using a Conditional GAN 
 
 
 | ![Image alt](https://github.com/hseerig/image-colorization-app/blob/5c135d8fabacded761ab759de20f3b893b6d505a/WhatsApp%20Image%202025-06-30%20at%2012.59.55_3111fc35.jpg)) | 
-| ![Image alt]((https://github.com/hseerig/image-colorization-app/blob/f94a388c0b2f80156d6b8d8c2f1c972ed8521a58/WhatsApp%20Image%202025-06-30%20at%2013.07.53_74d2e192.jpg)| 
+| ![Image alt](https://github.com/hseerig/image-colorization-app/blob/f94a388c0b2f80156d6b8d8c2f1c972ed8521a58/WhatsApp%20Image%202025-06-30%20at%2013.07.53_74d2e192.jpg)| 
 
 
 
