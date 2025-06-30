@@ -5,8 +5,7 @@ A deep learning project that colorizes grayscale images using a Conditional GAN 
 ---
 
 ### 📌 Demo
-
-> ✅ **Live App**: [Streamlit App](https://your-streamlit-app-link.com)  
+  
 > 📦 **Trained Model**: [`res18-unet.pt`](./res18-unet.pt)  
 > 🧠 **Training Notebook**: [`colorization_training.ipynb`](./colorization_training.ipynb)
 
@@ -24,14 +23,9 @@ A deep learning project that colorizes grayscale images using a Conditional GAN 
 
 ### 🧪 Sample Results
 
-| Grayscale Input | Colorized Output |
-|-----------------|------------------|
+
 | ![Gray](assets/input1.png) | ![Color](assets/output1.png) |
 | ![Gray](assets/input2.png) | ![Color](assets/output2.png) |
-
-> Add your output comparison images inside the `assets/` folder and update the table accordingly.
-
----
 
 
 
