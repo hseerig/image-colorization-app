@@ -7,7 +7,7 @@ A deep learning project that colorizes grayscale images using a Conditional GAN 
 ### 📌 Demo
   
 > 📦 **Trained Model**: [`res18-unet.pt`](./res18-unet.pt)  
-> 🧠 **Training Notebook**: [`colorization_training.ipynb`](./colorization_training.ipynb)
+> 🧠 **Training Notebook**: [`colorization_training.ipynb`](./colorization-training.ipynb)
 
 ---
 
